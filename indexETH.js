@@ -87,7 +87,7 @@ while(d <= today)
 
 console.log(values);
 
-var dataLink = "http://api.fixer.io/latest?base=USD";
+var dataLink = "https://api.fixer.io/latest?base=USD";
 
 var convertFactor;
 
